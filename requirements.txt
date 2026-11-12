@@ -1,0 +1,3 @@
+--extra-index-ur1 https://download.pytorch.org/whl/cpu
+torch
+transformers
